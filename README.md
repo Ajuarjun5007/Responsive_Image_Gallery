@@ -23,23 +23,7 @@ A modern, feature-rich image gallery built with **Next.js** and **React**. This 
 - **Responsive Design**: Works on all device sizes
 - **Error Handling**: Graceful fallback with retry functionality
 
-### 📚 Loop Examples Component
-Demonstrates 14 different JavaScript looping techniques:
 
-1. **For Loop** - Traditional counter-based iteration
-2. **forEach** - Iterate with callback functions
-3. **map** - Transform array elements
-4. **filter** - Select matching elements
-5. **reduce** - Aggregate values
-6. **find** - Get first matching element
-7. **some** - Check if any element matches
-8. **every** - Check if all elements match
-9. **while Loop** - Condition-based iteration
-10. **do-while Loop** - Execute at least once
-11. **for...of** - Iterate over values
-12. **for...in** - Iterate over keys
-13. **flatMap** - Map and flatten in one step
-14. **reduceRight** - Reduce from right to left
 
 ### 🎯 Accessibility Features
 - ARIA labels on interactive elements
